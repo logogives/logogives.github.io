@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="187px" viewBox="0 0 139 187" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>dog-hat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dribbble-Shot" transform="translate(-443.000000, -514.000000)">
+            <g id="Logo-Row" transform="translate(232.000000, 521.000000)">
+                <g id="dog-hat" transform="translate(218.000000, 0.000000)">
+                    <path d="M73.2916667,118.75 C71.0554307,122.605027 66.9358455,124.977852 62.4791667,124.977852 C58.0224879,124.977852 53.9029027,122.605027 51.6666667,118.75 L73.2916667,118.75 Z" id="Path" stroke="#000000" stroke-width="12.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M62.5,130.833333 C62.5,140.268198 70.1484689,147.916667 79.5833333,147.916667 L79.5833333,147.916667" id="Oval" stroke="#000000" stroke-width="4.16666667"></path>
+                    <path d="M45.4166667,130.833333 C45.4166667,140.268198 53.0651355,147.916667 62.5,147.916667 L62.5,147.916667" id="Oval" stroke="#000000" stroke-width="4.16666667" transform="translate(53.958333, 139.375000) scale(-1, 1) translate(-53.958333, -139.375000) "></path>
+                    <path d="M4.16666667,103.75 L27.9166667,103.75 L27.9166667,168.125 L27.9166667,168.125 C27.9166667,174.683381 22.6000481,180 16.0416667,180 L16.0416667,180 L16.0416667,180 C9.48328526,180 4.16666667,174.683381 4.16666667,168.125 L4.16666667,103.75 Z" id="Rectangle" fill="#000000"></path>
+                    <path d="M97.0833333,103.75 L120.833333,103.75 L120.833333,168.125 L120.833333,168.125 C120.833333,174.683381 115.516715,180 108.958333,180 L108.958333,180 L108.958333,180 C102.399952,180 97.0833333,174.683381 97.0833333,168.125 L97.0833333,103.75 Z" id="Rectangle-Copy" fill="#000000"></path>
+                    <path d="M125,93.75 L0,93.75 C10.3553391,93.75 18.75,85.3553391 18.75,75 L18.75,43.75 C18.7500004,19.5875424 38.3375424,6.51925799e-07 62.5,6.51925802e-07 C86.6624576,6.51925805e-07 106.25,19.5875424 106.25,43.75 L106.25,75 C106.25,85.3553391 114.644661,93.75 125,93.75 L125,93.75 Z" id="Shape" stroke="#000000" stroke-width="12.5" fill="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

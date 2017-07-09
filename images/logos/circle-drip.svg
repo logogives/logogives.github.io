@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="190px" viewBox="0 0 144 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Circle Drip</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dribbble-Shot" transform="translate(-252.000000, -716.000000)" stroke="#000000" stroke-width="9.25449871">
+            <g id="Circle-Drip" transform="translate(257.000000, 721.000000)">
+                <ellipse id="Circle" cx="67" cy="90" rx="67" ry="66.8637532"></ellipse>
+                <g id="Set" transform="translate(12.982699, 133.727506)" stroke-linecap="round">
+                    <path d="M0,27.7634961 L0,37.0179949" id="Shape"></path>
+                    <path d="M0,0 L0,9.25449871" id="Shape"></path>
+                    <path d="M37.0934256,27.7634961 L37.0934256,37.0179949" id="Shape"></path>
+                    <path d="M37.0934256,0 L37.0934256,9.25449871" id="Shape"></path>
+                    <path d="M18.5467128,37.0179949 L18.5467128,46.2724936" id="Shape"></path>
+                    <path d="M18.5467128,9.25449871 L18.5467128,18.5089974" id="Shape"></path>
+                </g>
+                <g id="Set-Copy" transform="translate(12.982699, 67.095116)" stroke-linecap="round">
+                    <path d="M0,27.7634961 L0,37.0179949" id="Shape"></path>
+                    <path d="M0,0 L0,9.25449871" id="Shape"></path>
+                    <path d="M37.0934256,27.7634961 L37.0934256,37.0179949" id="Shape"></path>
+                    <path d="M37.0934256,0 L37.0934256,9.25449871" id="Shape"></path>
+                    <path d="M18.5467128,37.0179949 L18.5467128,46.2724936" id="Shape"></path>
+                    <path d="M18.5467128,9.25449871 L18.5467128,18.5089974" id="Shape"></path>
+                </g>
+                <g id="Set-Copy-2" transform="translate(79.750865, 0.000000)" stroke-linecap="round">
+                    <path d="M0,27.7634961 L0,37.0179949" id="Shape"></path>
+                    <path d="M0,0 L0,9.25449871" id="Shape"></path>
+                    <path d="M37.0934256,27.7634961 L37.0934256,37.0179949" id="Shape"></path>
+                    <path d="M37.0934256,0 L37.0934256,9.25449871" id="Shape"></path>
+                    <path d="M18.5467128,37.0179949 L18.5467128,46.2724936" id="Shape"></path>
+                    <path d="M18.5467128,9.25449871 L18.5467128,18.5089974" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

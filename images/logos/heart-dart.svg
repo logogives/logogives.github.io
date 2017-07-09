@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="282px" height="418px" viewBox="0 0 282 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Carrot - Final</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.5106076,0.57839458 C15.5120581,16.4412526 9.06491878,37.6567216 5.03600162,62.7320879 C-4.07058951,119.410123 0.971432201,184.643114 17.8103942,228.005442 L59.4467241,335.294241 L101.009491,228.005442 C117.848453,184.643114 122.890475,119.410123 113.783884,62.7320879 C109.75729,37.6711811 103.315262,16.4657214 95.3231135,0.605841562 L59.4306556,36.3119739 L23.5106048,0.578396398 L23.5106076,0.57839458 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Gives" transform="translate(-288.000000, -76.000000)">
+            <g id="Carrot---Final" transform="translate(400.049981, 299.855716) rotate(-330.000000) translate(-400.049981, -299.855716) translate(322.049981, 74.855716)">
+                <g id="Line-+-Line-Copy-5-+-Line-Copy-+-Line-Copy-2-+-Line-Copy-3-+-Line-Copy-4-Mask" transform="translate(18.628712, 113.571493)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
+                </g>
+                <path d="M143.580862,11.8847252 C135.935273,4.27525576 125.563474,-9.89195001e-14 114.74844,-9.23705556e-14 C103.933405,-8.90960834e-14 93.5616063,4.27525576 85.9160172,11.8847252 L78.0593673,19.7005885 L70.2027174,11.8847252 C54.27901,-3.95631628 28.4615797,-3.95631609 12.5378725,11.8847256 C-3.38583464,27.7257674 -3.38583483,53.4091705 12.5378721,69.2502125 L20.394522,77.0660758 L78.0593673,134.431563 L135.724213,77.0660758 L143.580862,69.2502125 C151.230041,61.6443143 155.527607,51.3263588 155.527607,40.5674689 C155.527607,29.8085789 151.230041,19.4906235 143.580862,11.8847252 Z" id="Combined-Shape" stroke="#000000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

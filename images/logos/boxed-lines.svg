@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="316px" height="316px" viewBox="0 0 316 316" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Boxed-Lines</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Dribbble-Shot" transform="translate(-242.000000, -142.000000)" stroke-width="15" stroke="#000000">
+            <g id="Boxed-Lines" transform="translate(250.000000, 150.000000)">
+                <g id="Lines-4" transform="translate(75.000000, 225.000000) scale(1, -1) translate(-75.000000, -225.000000) translate(0.000000, 150.000000)">
+                    <polygon id="Shape" points="75 0 0 37.5 75 75 150 37.5"></polygon>
+                    <polyline id="Shape" points="0 112.5 75 150 150 112.5"></polyline>
+                    <polyline id="Shape" points="0 75 75 112.5 150 75"></polyline>
+                </g>
+                <g id="Lines-3" transform="translate(150.000000, 150.000000)">
+                    <polygon id="Shape" points="75 0 0 37.5 75 75 150 37.5"></polygon>
+                    <polyline id="Shape" points="0 112.5 75 150 150 112.5"></polyline>
+                    <polyline id="Shape" points="0 75 75 112.5 150 75"></polyline>
+                </g>
+                <g id="Lines-2" transform="translate(75.000000, 75.000000) scale(1, -1) translate(-75.000000, -75.000000) ">
+                    <polygon id="Shape" points="75 75 0 112.5 75 150 150 112.5"></polygon>
+                    <polyline id="Shape" points="0 37.5 75 75 150 37.5"></polyline>
+                    <polyline id="Shape" points="0 0 75 37.5 150 0"></polyline>
+                </g>
+                <g id="Line-1" transform="translate(150.000000, 0.000000)">
+                    <polygon id="Shape" points="75 0 0 37.5 75 75 150 37.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

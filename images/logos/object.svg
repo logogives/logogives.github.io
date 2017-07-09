@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="376px" height="299px" viewBox="0 0 376 299" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Object</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Gives" transform="translate(-212.000000, -150.000000)" fill="#000000">
+            <g id="Object" transform="translate(212.000000, 150.000000)">
+                <path d="M214.772016,214.475294 L375.424636,214.475294 L375.424636,298.842353 L47.51027,298.842353 L229.007059,1.32712664e-13 L0,0 L95.1555375,108.613397 L95.1555375,108.613397 C125.586503,143.348217 177.65255,148.743393 214.559049,120.986201 L262.270343,85.1027757 L262.270343,85.1027757 C271.174668,78.4058775 283.821959,80.1953505 290.518857,89.0996757 C295.911387,96.2696878 295.921001,106.139356 290.542448,113.319859 L214.772016,214.475294 Z" id="Shape"></path>
+                <ellipse id="Oval" cx="37.0704225" cy="150" rx="37.0704225" ry="37.0588235"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

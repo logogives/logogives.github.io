@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="324px" height="294px" viewBox="0 0 324 294" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Pour</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dribbble-Shot" transform="translate(-238.000000, -153.000000)">
+            <g id="Pour" transform="translate(247.000000, 162.000000)">
+                <path d="M90.4139444,95 C63.6320638,109.781664 50.3721642,140.865952 58.2574977,170.382189 C66.1428312,199.898426 93.1479265,220.264904 123.747278,219.772727 L198.747278,219.772727 C203.578729,219.767054 208.372381,218.922654 212.913944,217.277273" id="Shape" stroke="#000000" stroke-width="16.6666667" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M271.5,275.781457 L149,153.504184 C153.541564,151.858803 158.335216,151.014402 163.166667,151.008729 L238.166667,151.008729 C268.766018,150.516552 295.771113,170.883031 303.656447,200.399268 C311.54178,229.915505 298.281881,260.999793 271.5,275.781457 Z" id="Shape-Copy" stroke="#000000" stroke-width="16.6666667" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M61.252363,251.393135 L-2.84217094e-14,190.25214 C2.27086954,189.429418 4.66778784,189.007202 7.08360661,189.004365 L44.5850534,189.004365 C59.8853192,188.758267 73.3883878,198.941899 77.3312067,213.700587 C81.2740255,228.459275 74.6438199,244.002018 61.252363,251.393135 Z" id="Shape-Copy-2" stroke="#000000" stroke-width="16.6666667" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M61.252363,62.3931353 L0,1.25214023 C2.27086954,0.42941802 4.66778784,0.00720150309 7.08360661,0.00436482336 L44.5850534,0.00436482336 C59.8853192,-0.241733135 73.3883878,9.94189902 77.3312067,24.7005868 C81.2740255,39.4592747 74.6438199,55.0020184 61.252363,62.3931353 Z" id="Shape-Copy-3" stroke="#000000" stroke-width="16.6666667" stroke-linecap="round" stroke-linejoin="round" transform="translate(39.230000, 31.196568) scale(1, -1) translate(-39.230000, -31.196568) "></path>
+                <path d="M57.3333333,62 L240.666667,245" id="Shape" stroke="#000000" stroke-width="16.6666667" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#000000" cx="186.5" cy="82.5" r="33.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

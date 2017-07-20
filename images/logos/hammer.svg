@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="235px" height="299px" viewBox="0 0 235 299" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Hammer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Gives" transform="translate(-283.000000, -151.000000)" stroke="#000000" stroke-width="8.10810811">
+            <g id="Hammer" transform="translate(283.000000, 151.000000)">
+                <rect id="Rectangle" x="20.2609506" y="4.05405405" width="194.478099" height="113.513514"></rect>
+                <rect id="Handle" x="89.140261" y="124.675676" width="56.7194781" height="170.27027"></rect>
+                <rect id="Handle" x="89.0540541" y="263.054054" width="56.7194781" height="31.8918919"></rect>
+                <rect id="Right" x="198.536813" y="4.05405405" width="32.4091333" height="113.513514"></rect>
+                <rect id="Right" x="182.329916" y="4.05405405" width="32.4091333" height="113.513514"></rect>
+                <rect id="Left" x="4.05405405" y="4.05405405" width="32.4091333" height="113.513514"></rect>
+                <rect id="Left" x="20.2609506" y="4.05405405" width="32.4091333" height="113.513514"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

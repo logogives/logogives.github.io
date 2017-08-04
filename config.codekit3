@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25849",
 "files": {
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
 	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 9479,
@@ -25,6 +31,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/images\/logo-gives.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/logos\/bar-triangles.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/logos\/bar-triangles.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -105,6 +121,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/images\/logos\/froggy.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/images\/logos\/hammer.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/logos\/hammer.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -196,6 +222,12 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/packages\/bar-triangles.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/packages\/bar-triangles.zip",
+		"oF": 0
+		},
 	"\/packages\/boxed-lines.zip": {
 		"ft": 8192,
 		"oA": 2,
@@ -242,6 +274,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/packages\/froggy.zip",
+		"oF": 0
+		},
+	"\/packages\/hammer.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/packages\/hammer.zip",
 		"oF": 0
 		},
 	"\/packages\/heart-dart.zip": {
@@ -292,6 +330,24 @@
 		"oAP": "\/packages\/snake.zip",
 		"oF": 0
 		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -335,7 +391,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 520997422,
-	"displayValue": "website",
+	"displayValue": "logogives.github.io",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_brown",
 	"lastBuiltDate": 521035908
